@@ -95,6 +95,8 @@ These skills are directly applicable to:
 ---
 
 # Screenshots / Photos
+<img width="4000" height="2252" alt="20260409_085019" src="https://github.com/user-attachments/assets/e6013de5-eb61-44fe-8fc6-7fc3bbd933f2" />
+
 
 ## Planned Additions
 - POS workstation setup
